@@ -1,0 +1,2 @@
+jQuery("#test-owl").owlCarousel({autoplay:!0,loop:!0,items:1,responsiveClass:!0,autoplayTimeout:4e3,smartSpeed:800,nav:!1,dots:!0}),$(document).ready((function(){if($(window).width()<=991&&($(".wrapper").click((function(){$(".nav-btn-inner").toggleClass("open")})),$(".wrapper").click((function(){$(".nav-links").toggleClass("active")}))),jQuery(window).width()<991){var o=$("body");$(window).scroll((function(){$(window).scrollTop()>=94?o.addClass("scrolling-active"):o.removeClass("scrolling-active")}))}}));
+//# sourceMappingURL=index.68ade4fc.js.map
